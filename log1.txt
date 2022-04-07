@@ -1,0 +1,118 @@
+
+Time: 0
+Queue1:
+Queue2:
+Waiting: (1,7,3);(3,15,4);(4,18,4);(2,20,2)
+
+Time: 1
+Queue1:
+Queue2:
+Waiting: (1,7,3);(3,15,4);(4,18,4);(2,20,2)
+
+Time: 2
+Queue1:
+Queue2:
+Waiting: (1,7,3);(3,15,4);(4,18,4);(2,20,2)
+
+Time: 3
+Queue1:
+Queue2:
+Waiting: (1,7,3);(3,15,4);(4,18,4);(2,20,2)
+
+Time: 4
+Queue1:
+Queue2:
+Waiting: (1,7,3);(3,15,4);(4,18,4);(2,20,2)
+
+Time: 5
+Queue1:
+Queue2:
+Waiting: (1,7,3);(3,15,4);(4,18,4);(2,20,2)
+
+Time: 6
+Queue1:
+Queue2:
+Waiting: (1,7,3);(3,15,4);(4,18,4);(2,20,2)
+
+Time: 7
+Queue1:(1,7,3)
+Queue2:
+Waiting: (3,15,4);(4,18,4);(2,20,2)
+
+Time: 8
+Queue1:(1,7,2)
+Queue2:
+Waiting: (3,15,4);(4,18,4);(2,20,2)
+
+Time: 9
+Queue1:(1,7,1)
+Queue2:
+Waiting: (3,15,4);(4,18,4);(2,20,2)
+
+Time: 10
+Queue1:
+Queue2:
+Waiting: (3,15,4);(4,18,4);(2,20,2)
+
+Time: 11
+Queue1:
+Queue2:
+Waiting: (3,15,4);(4,18,4);(2,20,2)
+
+Time: 12
+Queue1:
+Queue2:
+Waiting: (3,15,4);(4,18,4);(2,20,2)
+
+Time: 13
+Queue1:
+Queue2:
+Waiting: (3,15,4);(4,18,4);(2,20,2)
+
+Time: 14
+Queue1:
+Queue2:
+Waiting: (3,15,4);(4,18,4);(2,20,2)
+
+Time: 15
+Queue1:(3,15,4)
+Queue2:
+Waiting: (4,18,4);(2,20,2)
+
+Time: 16
+Queue1:(3,15,3)
+Queue2:
+Waiting: (4,18,4);(2,20,2)
+
+Time: 17
+Queue1:(3,15,2)
+Queue2:
+Waiting: (4,18,4);(2,20,2)
+
+Time: 18
+Queue1:(3,15,1)
+Queue2:(4,18,4)
+Waiting: (2,20,2)
+
+Time: 19
+Queue1:
+Queue2:(4,18,3)
+Waiting: (2,20,2)
+
+Time: 20
+Queue1:(2,20,2)
+Queue2:(4,18,2)
+Waiting: 
+
+Time: 21
+Queue1:(2,20,1)
+Queue2:(4,18,1)
+Waiting: 
+
+Time: 22
+Queue1:
+Queue2:
+Waiting: 
+Average waiting time:0.0
+Average service time:3.25
+Peak time:18 with 2 clients
